@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFlow.Exampe", "NFlow.Exampe\NFlow.Exampe.csproj", "{3E9D06BB-144A-4ED6-81F5-2A7F0D872EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFlow.Grpc", "NFlow.Grpc\NFlow.Grpc.csproj", "{CDF56B22-7F92-42BE-B40B-1ED85D5024A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9D06BB-144A-4ED6-81F5-2A7F0D872EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9D06BB-144A-4ED6-81F5-2A7F0D872EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9D06BB-144A-4ED6-81F5-2A7F0D872EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9D06BB-144A-4ED6-81F5-2A7F0D872EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF56B22-7F92-42BE-B40B-1ED85D5024A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF56B22-7F92-42BE-B40B-1ED85D5024A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF56B22-7F92-42BE-B40B-1ED85D5024A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF56B22-7F92-42BE-B40B-1ED85D5024A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508EC672-EBF8-4C9E-B8CE-D75069AB44AA}
+	EndGlobalSection
+EndGlobal

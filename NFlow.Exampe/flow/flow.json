@@ -1,0 +1,17 @@
+{
+	"host": "",
+	"accounts": {
+		"service": {
+			"address": "f8d6e0586b0a20c7",
+			"privateKey": "33d0753c5fa8900389493fd14b691da67ca27fcadd74b36df7ecc15e229bd84c",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256",
+			"keyType": "hex",
+			"keyIndex": 0,
+			"keyContext": {
+				"privateKey": "33d0753c5fa8900389493fd14b691da67ca27fcadd74b36df7ecc15e229bd84c"
+			},
+			"keys": ""
+		}
+	}
+}
