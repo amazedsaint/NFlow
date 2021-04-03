@@ -4,7 +4,7 @@ This is a simple GRPC library generated from Protobuf definitions to interact wi
 
 ## Quick Start
 
-To test the code, please make sure your local flow emulator is running. Please see here (https://docs.onflow.org/emulator) how to install the Flow CLI. Once you've Flow CLI, just start the emulator as below
+To test the code, please make sure your local flow emulator is running. Please see here (https://docs.onflow.org/emulator) for more on how to install the Flow CLI. Once you've Flow CLI, just start the emulator as below
 
 
 ```
