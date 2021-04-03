@@ -1,5 +1,5 @@
 # NFlow
-This is a simple GRPC library generated from Protobuf definitions to interact with Flow Blockchain (https://www.onflow.org) from C#, with some basic examples and extensions methods.
+This is a simple GRPC library generated from Protobuf definitions to interact with Flow Blockchain (https://www.onflow.org) from C# & Unity, with some basic examples and extensions methods.
 
 
 ## Quick Start
