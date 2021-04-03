@@ -13,10 +13,12 @@ namespace NFlow.Exampe
 
         static AccessAPIClient client;
 
+        
 
         static void Main(string[] args)
         {
 
+            //Please make sure your local flow emulator is running
 
             var url = "127.0.0.1:3569";
             var account = "f8d6e0586b0a20c7";
